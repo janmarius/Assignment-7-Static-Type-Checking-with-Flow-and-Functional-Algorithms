@@ -8,8 +8,8 @@ As of early 2018, Atom with the Nuclide Package is one of the few good options f
 ```sh
 npm install -g flow-bin  # First install flow to system
 
-git clone https://gitlab.com/tdat2003/flow-example
-cd flow-example
+git clone https://github.com/janmarius/Assignment-7-Static-Type-Checking-with-Flow-and-Functional-Algorithms.git
+cd Assignment-7-Static-Type-Checking-with-Flow-and-Functional-Algorithms
 
 npm install  # Install project dependencies
 
