@@ -1,4 +1,5 @@
 # Example console application using Flow static type checker
+[https://gitlab.com/tdat2003/flow-example](https://gitlab.com/tdat2003/flow-example)
 
 ## Recommended development environment
 As of early 2018, Atom with the Nuclide Package is one of the few good options for decent Flow support.
